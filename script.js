@@ -1,7 +1,7 @@
 let datetxt = "8/2/2005";
 let datatxtletter =
-  "Happy birthday! Wishing you a day filled with joy, laughter, and wonderful memories 💕";
-let titleLetter = "Dear hà";
+  "Chúc mừng sinh nhật nhe!:) chúc Hà năm mới vui vẻ, luôn xinh đẹp, đạt được nhiều thành công trong công việc, học tập và tìm được hạnh phúc cho bản thân. Cái project này Nhân làm ra từ hồi lâu rồi tầm 3-4 tháng, mà đôi khi mọi thứ xẩy ra không như những gì mình muốn, như mà thôi Nhân không có định làm phiền bà nữa đâu, tạm biệt💕";
+let titleLetter = "Dear Hà";
 let charArrDate = datetxt.split("");
 let charArrDateLetter = datatxtletter.split("");
 let charArrTitle = titleLetter.split("");
